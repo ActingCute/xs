@@ -1,6 +1,8 @@
 # XS Formatter Extension for Visual Studio Code
 
-![Extension Banner](index.png) <!-- 可选：添加横幅图片 -->
+[](https://marketplace.visualstudio.com/items?itemName=xiaohui-xs)
+
+![Extension Banner](https://raw.githubusercontent.com/ActingCute/xs/refs/heads/master/index.png) <!-- 可选：添加横幅图片 -->
 
 > 为 XS 小说文件提供专业化的格式化和字数统计功能
 

@@ -1,13 +1,17 @@
 {
-  "name": "xs",
-  "displayName": "xs",
+  "name": "xiaohui-xs-novel-formatter",
+  "displayName": "XS Novel Formatter - Specialized for Chinese Fiction",
   "description": "小说格式化插件",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "xiaohui",
   "license": "MIT",
   "icon": "ico.jpg",
   "engines": {
     "vscode": "^1.100.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ActingCute/xs"
   },
   "categories": [
     "Other"
